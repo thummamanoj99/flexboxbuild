@@ -1,0 +1,18 @@
+.intro{
+    align-items: center;
+    text-align: center;
+
+}
+a{
+    color: palevioletred;
+}
+.navigation{
+    display: inline-block;
+}
+img{
+    height: 300px;
+    width:400px
+}
+.images{
+    display: flexbox;
+}
